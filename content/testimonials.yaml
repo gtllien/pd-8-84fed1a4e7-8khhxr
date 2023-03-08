@@ -1,0 +1,21 @@
+
+  - id: "36bd-9963-7492"
+    web:
+      metaDescription: ""
+      metaTitle: "Testimonials"
+      metaLinkText: "Testimonials"
+      metaKeywords: null
+      pathPart: "testimonials"
+      path: "/do-not-use/testimonials/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 57
+      listed: false
+    data:
+      body_text: null
+      main_image: null
+      page_title: "Testimonials"

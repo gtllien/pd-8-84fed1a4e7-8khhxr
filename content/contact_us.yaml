@@ -1,0 +1,31 @@
+
+  - id: "1ec0-8883-4202"
+    web:
+      metaDescription: "Choose Washington Crossing Animal Hospital in Washington Crossing, PA, for your pet care provider! We treat cats, dogs & other small animals. Call today!"
+      metaTitle: "Pet Doctor in Washington Crossing, PA"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 5
+      listed: true
+    data:
+      address_one: "Washington Crossing Animal Hospital"
+      address_three: "Washington Crossing, PA 18977"
+      address_two: "1240 General Washington Memorial Blvd Suite 1"
+      general_info_one: "For general information, questions, appointment requests, call us at:"
+      general_info_three: null
+      general_info_two: null
+      google_map_embed: "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12173.11233189043!2d-74.8731451!3d40.2917841!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd39d00b116fb02f6!2sWashington+Crossing+Animal+Hospital!5e0!3m2!1sen!2sus!4v1546881126359\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+      hours_title: "Hours"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-dog-cat-together-sniff.jpg"
+      page_title: "Contact Us"
+      phone_number_one: "(215) 493-5986<Br>Email Us: <a href=\"mailto:info@washcrossah.com \">info@washcrossah.com </a>\n<br> Fax: (215) 493-9889"
+      phone_number_two: null
+      special_hours_info: null

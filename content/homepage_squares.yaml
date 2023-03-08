@@ -1,0 +1,70 @@
+
+  - id: "8024-360c-475c"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 24
+      listed: true
+    data:
+      button_text: "Learn More"
+      image: "https://t9jkrgn5.media.zestyio.com/1.jpg"
+      image_caption: ""
+      image_title: "About Us"
+      links_to: "87eb-3387-0c02"
+      sort_order: 3
+  - id: "b620-1a4f-dc92"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 22
+      listed: true
+    data:
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/pet-cat-light-rest-sit.jpg"
+      image_caption: ""
+      image_title: "Meet our Team"
+      links_to: "0590-046f-a86a"
+      sort_order: 1
+  - id: "a7f4-d09f-2f84"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 23
+      listed: true
+    data:
+      button_text: "PetDesk"
+      image: "https://ddp2ys.media.zestyio.com/half-page-molly-reskin17.jpg"
+      image_caption: ""
+      image_title: "Download our App"
+      links_to: "6499-ac8a-89eb"
+      sort_order: 2

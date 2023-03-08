@@ -1,0 +1,22 @@
+
+  - id: "0590-046f-a86a"
+    web:
+      metaDescription: ""
+      metaTitle: "Meet the Team"
+      metaLinkText: "Meet the Team"
+      metaKeywords: null
+      pathPart: "meet-the-team"
+      path: "/about-us/meet-the-team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 56
+      listed: true
+    data:
+      body_text: null
+      main_image: "https://ddp2ys.media.zestyio.com/pets-field-flowers-two-cats.jpg"
+      number_of_cols: "4"
+      page_title: "Meet the Team"

@@ -1,0 +1,22 @@
+
+  - id: "dfa0-129a-013d"
+    web:
+      metaDescription: ""
+      metaTitle: "Office Tour"
+      metaLinkText: "Office Tour"
+      metaKeywords: null
+      pathPart: "office-tour"
+      path: "/do-not-use/office-tour/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 80
+      listed: false
+    data:
+      body_text: null
+      main_image: null
+      page_title: "Office Tour"
+      youtube_id: "H2p1UZlgLjo"

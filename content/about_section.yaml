@@ -1,0 +1,24 @@
+
+  - id: "8b46-64e2-9325"
+    web:
+      metaDescription: ""
+      metaTitle: "Washington Crossing Animal Hospital"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 25
+      listed: true
+    data:
+      about_section_btn_links_to: "501"
+      about_section_button_txt: ""
+      about_section_copy: "<p>Joyful pet ownership resulting from an enhanced human/animal bond is our primary goal at Washington Crossing Animal Hospital. Providing the best quality of health and wellness services, along with leading edge products and educational content, gives our patients the opportunity for better health and extended longevity.</p>"
+      about_section_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/home-about-section2.png"
+      about_section_title: "Our Mission"
+      sort_order: 1

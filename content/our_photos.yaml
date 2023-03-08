@@ -1,0 +1,21 @@
+
+  - id: "c1d6-6277-796a"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Photos"
+      metaLinkText: "Our Photos"
+      metaKeywords: null
+      pathPart: "our-photos"
+      path: "/do-not-use/our-photos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 60
+      listed: false
+    data:
+      body_text: "<h4>&nbsp;</h4>"
+      main_image: null
+      page_title: "Our Photos"

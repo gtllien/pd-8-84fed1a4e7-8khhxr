@@ -1,0 +1,26 @@
+
+  - id: "560e-d97e-d179"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Forms"
+      metaLinkText: "Patient Forms"
+      metaKeywords: null
+      pathPart: "patient-forms"
+      path: "/patient-resources/patient-forms/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/patient-resources/"
+    meta:
+      sort: 47
+      listed: true
+    data:
+      additional_fields: null
+      body_text: null
+      default_fields: "no_form"
+      download_form_note: "Please see a list of our most common forms below. Once you find the form that you need, click the PDF icon to download."
+      embedded_form_instrux: null
+      main_image: "https://ddp2ys.media.zestyio.com/pet-dog-ears-look-head.jpg"
+      page_title: "Patient Forms"
+      send_form_to: "petclinic@email.com"

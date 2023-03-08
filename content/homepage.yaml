@@ -1,0 +1,24 @@
+
+  - id: "5ebd-b803-7e8c"
+    web:
+      metaDescription: "Washington Crossing Animal Hospital is locally owned & has been serving since the 1960s. Call now for reliable care for your dog or cat."
+      metaTitle: "Animal Hospital in Washington Crossing, PA"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      background_pattern: null
+      homepage_title: "Washington Crossing Animal Hospital"
+      timeline_btn_links_to: "c30e-edb8-fc08"
+      timeline_button_text: "Discover our services"
+      timeline_subtitle: null
+      timeline_title: "Testimonials"

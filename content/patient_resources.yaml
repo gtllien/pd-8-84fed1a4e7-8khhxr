@@ -1,0 +1,21 @@
+
+  - id: "6499-ac8a-89eb"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Resources"
+      metaLinkText: "Patient Resources"
+      metaKeywords: null
+      pathPart: "patient-resources"
+      path: "/patient-resources/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      body_text: "<p>We now offer you an easier way to take care of your pet. Request appointments, medication refills and get alerts when your pet is coming due for medical care.<br><a href=\"https://petdesk.com/pet-cat-dog-app/\" target=\"_blank\"><span style=\"display:block;text-align:center\"><img title=\"dog-cat.png\" src=\"https://ddp2ys.media.zestyio.com/dog-cat.png\" data-zuid=\"3-4cc90c5-18ujj\"></span></a><strong>Other Resources</strong></p><ul><li><p><a href=\"https://hillstohome.com/login\" target=\"_blank\">Hill’s to Home</a></p></li></ul>"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-tabby-look-face.jpg"
+      page_title: "Patient Resources"

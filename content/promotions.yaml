@@ -1,0 +1,21 @@
+
+  - id: "95fd-6d57-f493"
+    web:
+      metaDescription: ""
+      metaTitle: "Promotions"
+      metaLinkText: "Promotions"
+      metaKeywords: null
+      pathPart: "promotions"
+      path: "/do-not-use/promotions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 4
+      listed: false
+    data:
+      body_text: null
+      main_image: null
+      page_title: "Promotions"

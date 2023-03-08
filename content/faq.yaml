@@ -1,0 +1,21 @@
+
+  - id: "bf4c-1d1b-a2bf"
+    web:
+      metaDescription: ""
+      metaTitle: "FAQ"
+      metaLinkText: "FAQ"
+      metaKeywords: null
+      pathPart: "faq"
+      path: "/do-not-use/faq/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 33
+      listed: false
+    data:
+      body_text: null
+      main_image: null
+      page_title: "FAQ"

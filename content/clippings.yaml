@@ -1,0 +1,29 @@
+
+  - id: "9399-7b76-b2be"
+    web:
+      metaDescription: ""
+      metaTitle: "Washington Crossing Animal Hospital"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      below_logo_text: null
+      footer_text: "PetDesk with Zesty.io"
+      logo: ""
+      logo_height: "80"
+      petdesk_ref_code: "603cae4a-8bad-4a23-ab56-b36aa7afe5ef"
+      phone: "(215) 493-5986"
+      pop_up_content: ""
+      request_btn_font_size: "12"
+      site_name: "Washington Crossing Animal Hospital"
+      social_media_icon_height: "16"
+      telephone_number_height: "16"
